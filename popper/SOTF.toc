@@ -1,0 +1,42 @@
+\contentsline {section}{\numberline {I}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {II}Challenges to Adoption }{3}{section.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Code Dependency}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Code Rot}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-C}}Ad-hoc Validation}{3}{subsection.2.3}
+\contentsline {section}{\numberline {III}Conventional Solutions}{3}{section.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Hyper Text Markup Language}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Version Control}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-C}}Virtual Machines }{3}{subsection.3.3}
+\contentsline {section}{\numberline {IV}Demonstration Introduction }{3}{section.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}March Madness Explanation}{4}{subsection.4.1}
+\contentsline {section}{\numberline {V}March Madness Simulator Scripts}{4}{section.5}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-A}}Generate Paper}{4}{subsection.5.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-B}}Generating More Complex Papers}{4}{subsection.5.2}
+\contentsline {section}{\numberline {VI}Containerized Workflow}{4}{section.6}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-A}}Terminology}{5}{subsection.6.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-B}}Docker}{5}{subsection.6.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}}Solution to Challenges}{5}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}1}Code Dependency}{5}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}2}Code Rot}{5}{subsubsection.6.3.2}
+\contentsline {section}{\numberline {VII}March Madness Simulator Container Workflow}{5}{section.7}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-A}}Workflow Set up}{6}{subsection.7.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-B}}Display results}{6}{subsection.7.2}
+\contentsline {section}{\numberline {VIII}Verification and Validation}{7}{section.8}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VIII-A}}Popper}{7}{subsection.8.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VIII-B}}Popperized}{7}{subsection.8.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VIII-C}}Automated Validation}{7}{subsection.8.3}
+\contentsline {section}{\numberline {IX}March Madness Simulator Popper Workflow}{7}{section.9}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-A}}Download \& Configure Popper}{7}{subsection.9.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-B}}March Madness Simulation Popper Workflow}{7}{subsection.9.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-C}}Generate Results}{8}{subsection.9.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-D}}Popper Tutorial Reflection}{8}{subsection.9.4}
+\contentsline {section}{\numberline {X}Collective Knowledge}{8}{section.10}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-A}}Features}{9}{subsection.10.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-B}}Code Dependency}{9}{subsection.10.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-C}}Code Rot}{9}{subsection.10.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-D}}Demonstration}{9}{subsection.10.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-E}}CodeReef}{9}{subsection.10.5}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-F}}Collective Knowledge Drawbacks}{9}{subsection.10.6}
+\contentsline {section}{\numberline {XI}Appendix}{9}{section.11}
+\contentsline {section}{\numberline {XII}Concluding Remarks}{10}{section.12}
+\contentsline {section}{References}{10}{section*.3}

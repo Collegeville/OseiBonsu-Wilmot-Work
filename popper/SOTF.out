@@ -1,0 +1,42 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Challenges to Adoption }{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Code Dependency}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Code Rot}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Ad-hoc Validation}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Conventional Solutions}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Hyper Text Markup Language}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Version Control}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Virtual Machines }{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Demonstration Introduction }{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{March Madness Explanation}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{March Madness Simulator Scripts}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Generate Paper}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Generating More Complex Papers}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Containerized Workflow}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Terminology}{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Docker}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.3}{Solution to Challenges}{section.6}% 18
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Code Dependency}{subsection.6.3}% 19
+\BOOKMARK [3][-]{subsubsection.6.3.2}{Code Rot}{subsection.6.3}% 20
+\BOOKMARK [1][-]{section.7}{March Madness Simulator Container Workflow}{}% 21
+\BOOKMARK [2][-]{subsection.7.1}{Workflow Set up}{section.7}% 22
+\BOOKMARK [2][-]{subsection.7.2}{Display results}{section.7}% 23
+\BOOKMARK [1][-]{section.8}{Verification and Validation}{}% 24
+\BOOKMARK [2][-]{subsection.8.1}{Popper}{section.8}% 25
+\BOOKMARK [2][-]{subsection.8.2}{Popperized}{section.8}% 26
+\BOOKMARK [2][-]{subsection.8.3}{Automated Validation}{section.8}% 27
+\BOOKMARK [1][-]{section.9}{March Madness Simulator Popper Workflow}{}% 28
+\BOOKMARK [2][-]{subsection.9.1}{Download \046 Configure Popper}{section.9}% 29
+\BOOKMARK [2][-]{subsection.9.2}{March Madness Simulation Popper Workflow}{section.9}% 30
+\BOOKMARK [2][-]{subsection.9.3}{Generate Results}{section.9}% 31
+\BOOKMARK [2][-]{subsection.9.4}{Popper Tutorial Reflection}{section.9}% 32
+\BOOKMARK [1][-]{section.10}{Collective Knowledge}{}% 33
+\BOOKMARK [2][-]{subsection.10.1}{Features}{section.10}% 34
+\BOOKMARK [2][-]{subsection.10.2}{Code Dependency}{section.10}% 35
+\BOOKMARK [2][-]{subsection.10.3}{Code Rot}{section.10}% 36
+\BOOKMARK [2][-]{subsection.10.4}{Demonstration}{section.10}% 37
+\BOOKMARK [2][-]{subsection.10.5}{CodeReef}{section.10}% 38
+\BOOKMARK [2][-]{subsection.10.6}{Collective Knowledge Drawbacks}{section.10}% 39
+\BOOKMARK [1][-]{section.11}{Appendix}{}% 40
+\BOOKMARK [1][-]{section.12}{Concluding Remarks}{}% 41
+\BOOKMARK [1][-]{section*.3}{References}{}% 42
