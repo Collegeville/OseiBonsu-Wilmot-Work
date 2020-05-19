@@ -11,7 +11,6 @@ RUN yes| apt-get update && yes| apt-get install g++ && yes | apt-get install git
 COPY ./scripts/run.sh /
 COPY ./scripts/madness.sh /
 COPY ./scripts/paper.sh /
-COPY ./scripts/validate.sh /
 COPY ./scripts/table.py /
 COPY ./scripts/correct.txt /
 COPY ./scripts/SOTF.tex /
